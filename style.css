@@ -1,0 +1,291 @@
+*{
+    padding: 0;
+    margin: 0;
+    /* background-color: aqua; */
+}
+
+.navbar{
+    background-color:#303030 ;
+}
+
+.h{
+    margin-right: 39px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.p{
+    margin-right: 39px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.pr{
+    margin-right: 39px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.a{
+    margin-right: 39px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.c{
+    margin-right: 39px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.page-link{
+    font-size: 23px;
+    margin-top: -61px;
+    margin-left: 479px;
+    color: white;
+}
+
+.logo{
+    margin-left: 68px;
+    margin-top: 15px;
+    margin-bottom: 8px;
+}
+
+.back-img{
+    width: 100%;
+    height: 100%;
+    margin-top: 16px;
+    background-size: 50px;
+}
+
+.title{
+    font-size: 125px;
+    font-family:'Oswald', sans-serif;
+    color: white;
+        margin-top: -508px;
+        margin-left: 61px
+}
+
+.para{
+    font-size: 30px;
+    color: white;
+    margin-left: 74px;
+}
+
+.btn{
+    margin-left: 74px;
+    width: 215px;
+    height: 52px;
+    margin-top: 22px;
+    color: white;
+    background-color: #e8631c;
+    font-size: 29px;
+    font-family: 'Oswald', sans-serif;;
+    
+}
+
+.dance-tour{
+    background-color: #e8631c;
+    height: 871px;
+    background-size: 25px;
+}
+
+.dan-tour{
+    font-size: 68px;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    margin-top: 141px;
+    padding-top: 55px;
+    margin-left: -33px;
+}
+
+
+
+.dan-para{
+    font-size: 30px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    margin-left: -21px;
+    margin-top: 19px;
+}
+
+.america-img{
+    width: 377px;
+    height: 413px;
+    margin-right: 55px;
+    padding-right: 18px;
+    margin-bottom: -7px;
+}
+
+.asia-img{
+    width: 377px;
+    height: 413px;
+    margin-right: 55px;
+    padding-right: 18px;
+    margin-bottom: -7px;
+}
+
+.aus-img{
+    margin-right: 55px;
+    width: 377px;
+    height: 413px;
+    padding-right: 18px;
+    margin-bottom: -7px;
+}
+
+.dan-img{
+    margin-left: 228px;
+    margin-top: 63px;
+    margin-left: 115px;
+}
+
+
+.aa{
+    width: 377px;
+    margin-left: 115px;
+    margin-top: -16px;
+    height: 129px;
+}
+
+.b{
+    width: 377px;
+    height: 129px;
+    padding-left: 73px;
+}
+
+.cc{
+    width: 377px;
+    height: 129px;
+    margin-left: 22px;
+    margin-left: 146px;
+    margin-left: 74px
+}
+
+.amer{
+    font-size: 30px;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    margin-left: 251px;
+    margin-top: -131px;
+}
+
+.asia{
+    margin-top: -45px;
+    font-size: 30px;
+    margin-left: 732px;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+}
+
+.aus{
+    font-size: 30px;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    margin-top: -44px;
+    margin-left: 1150px;
+}
+
+.amer-para{
+    /* font-size: 25px; */
+    color: white;
+    margin-top: 7px;
+    margin-left: 153px;
+    font-size: 22px;
+    color: white;
+    /* margin-top: 7px */
+    /* margin-left: 153px; */
+    font-family: 'Montserrat', sans-serif;
+}
+
+.asia-para{
+    color: white;
+    font-size: 22px;
+    margin-top: -54px;
+    margin-left: 607px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.aus-para{
+    margin-top: -55px;
+    margin-left: 1061px;
+    color: white;
+    font-size: 22px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.ama-dan{
+    width: 50%;
+}
+
+.sha-ama{
+    width: 50%;
+    margin-top: -400vh;
+    margin-left: 760px;
+    height: 1058px;
+}
+
+.best-dan{
+    margin-left: 760px;
+    background-position: right;
+    margin-top: -22px;
+    width: 50%;
+}
+
+.qua-main{
+    background-color: #e8631c;
+}
+
+.ama-dan-d{
+    color: white;
+    margin-top: -1661px;
+    font-size: 75px;
+    margin-left: 911px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.ama-dan-para{
+    font-size: 35px;
+    color: white;
+    padding-top: 36px;
+    margin-left: 838px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.btn-ama-dan{
+    margin-top: 43px;
+    margin-left: 838px;
+    font-size: 29px;
+    font-family: 'Oswald', sans-serif;
+    width: 255px;
+    height: 52px;
+    background-color: #303030;
+    color: white;
+}
+
+.be-ama{
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.our-sta{
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -5px;
+}
+
+.lo-img{
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -4px;
+}
+
+.musi-lo{
+    margin-top: -5px;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
